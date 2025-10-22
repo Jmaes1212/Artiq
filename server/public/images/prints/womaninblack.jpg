@@ -1,0 +1,3 @@
+const PRODUCT_IMAGE = {
+  'women-in-black': '/images/prints/womaninblack.jpg'
+};
